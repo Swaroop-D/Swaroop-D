@@ -1,4 +1,4 @@
-# Hi friends, great to see you here! 👋
+# Hi friend, great to see you here! 👋
 
 I'm a kid, just 13, started coding on 29 July 2019. Now, I like to recreate websites on my own just to sharpen my skills!
 
