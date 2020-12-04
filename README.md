@@ -10,7 +10,7 @@ Hey, get updates here:
 <br>
 • If you love what I build, please consider contributing on my repositories...
 <br>
-• Have ever heard about IIFEs? If not search on MDN resource. And a fact about that, inside an IIFE you can add 
+• Have you ever heard about IIFEs? If not search on MDN resource. And a fact about that, inside an IIFE you can add 
 <br>
 `window[yourPleasedName] = function (params) { }`
 <br>
