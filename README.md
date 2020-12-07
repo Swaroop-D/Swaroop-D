@@ -4,7 +4,7 @@ I'm a kid, just 13, started coding on 29 July 2019. Now, I like to recreate webs
 
 Hey, get updates here: 
 <br>
-• Current project(s) - [Rippllino](http://github.com/Swaroop-D/Rippllino)
+• Current project(s) - [Github User Finder](https://github.com/Swaroop-D/github-user-finder)
 <br>
 • Reach me on swaroopshri2019@gmail.com
 <br>
