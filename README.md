@@ -6,7 +6,7 @@ Hey, get updates here:
 <br>
 • Current project(s) - [Github User Finder](https://github.com/Swaroop-D/github-user-finder)
 <br>
-• Reach me on swaroopshri2019@gmail.com
+• Get in touch with me - [Contact Form](https://swaroop3108.github.io/contact-me/)
 <br>
 • If you love what I build, please consider contributing on my repositories...
 <br>
@@ -18,4 +18,4 @@ to call that IIFE using a name!😮
 <br>
 <br>
 
-Thanks for joining!🙂
+Thanks for coming!🙂
